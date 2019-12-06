@@ -1,6 +1,19 @@
-1. Access Control
-  a. Discretionary Access Control
-  b. Mandatory Access Control
-  c. Role-Based Access Control
-  d. ...
-2. 
+- Identity and Access Management
+- Consistency/Integrity/Availability risks and proposed solutions in Central/Distributed/Outsourced
+
+- Authentication
+- Authorization
+- Access Control
+- Trust
+- Privacy
+
+- Discretionary Access Control
+- Mandatory Access Control (2)
+- Role-Based Access Control (2)
+
+MS SQL Server tool
+- Privileges
+- Roles
+- Backup & Recovery in MS SQL Server
+- Transaction
+- Encryption & Decryption in MS SQL Server
